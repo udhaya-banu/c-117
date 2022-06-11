@@ -1,0 +1,14 @@
+body{
+ background:linear-gradient(#e35d6f 0%, #af72ed 100%);
+ color: white;
+}
+h1{
+    background: white;
+    color: black;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-size: 25px;
+}
